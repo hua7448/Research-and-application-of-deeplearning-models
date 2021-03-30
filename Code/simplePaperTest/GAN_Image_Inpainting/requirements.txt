@@ -1,0 +1,6 @@
+tqdm==4.19.8
+matplotlib==3.3.4
+numpy==1.20.1
+opencv_python==4.2.0.32
+paddlepaddle_tiny==1.6.1
+paddle==1.0.2
